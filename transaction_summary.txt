@@ -1,0 +1,4 @@
+Total sales: $3013.02
+Most popular fruit: grapes with 228 transactions
+Average transaction value: $15.06
+Biggest spender: Person59 with a total of $118.24
